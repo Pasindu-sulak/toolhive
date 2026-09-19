@@ -1,0 +1,6 @@
+[
+  { "slug": "text", "name": "Text Tools", "description": "Count, convert, and generate text — word counters, case converters, and placeholder text." },
+  { "slug": "calculators", "name": "Calculators", "description": "Everyday calculators for percentages, BMI, tips, and age." },
+  { "slug": "developer", "name": "Developer Tools", "description": "JSON formatting, timestamps, password and UUID generation for developers." },
+  { "slug": "visual", "name": "Visual Tools", "description": "Color conversion and QR code generation." }
+]

@@ -1,0 +1,276 @@
+[
+  {
+    "slug": "word-counter",
+    "name": "Word & Character Counter",
+    "shortName": "Word Counter",
+    "category": "Text Tools",
+    "categorySlug": "text",
+    "widget": "word-counter",
+    "metaTitle": "Word Counter — Count Words & Characters Free | Toolhive",
+    "metaDescription": "Free online word counter and character counter. Paste your text to instantly see word count, character count, sentences, paragraphs, and reading time.",
+    "intro": "Paste or type any text below to get an instant word count, character count, sentence count, and estimated reading time. Nothing you type leaves your browser.",
+    "howTo": [
+      "Paste or type your text into the box above.",
+      "Watch the counts update instantly as you type.",
+      "Use the reading time estimate to gauge how long the piece takes to read aloud or silently."
+    ],
+    "faq": [
+      { "q": "Does this count spaces as characters?", "a": "The character count includes spaces. If you need a spaces-excluded count for a strict limit (like a form field), subtract the space count shown separately." },
+      { "q": "Is my text uploaded anywhere?", "a": "No. The counting happens entirely in your browser with JavaScript — your text is never sent to a server or stored." },
+      { "q": "How is reading time calculated?", "a": "We estimate reading time using an average adult silent reading speed of about 200 words per minute." }
+    ],
+    "relatedSlugs": ["case-converter", "lorem-ipsum"]
+  },
+  {
+    "slug": "case-converter",
+    "name": "Text Case Converter",
+    "shortName": "Case Converter",
+    "category": "Text Tools",
+    "categorySlug": "text",
+    "widget": "case-converter",
+    "metaTitle": "Case Converter — UPPERCASE, lowercase, Title Case | Toolhive",
+    "metaDescription": "Convert text between UPPERCASE, lowercase, Title Case, Sentence case, and camelCase instantly. Free browser-based case converter, no signup.",
+    "intro": "Paste text below and convert it to UPPERCASE, lowercase, Title Case, Sentence case, or camelCase in one click.",
+    "howTo": [
+      "Paste your text into the input box.",
+      "Click the case style you want (UPPERCASE, lowercase, Title Case, Sentence case, or camelCase).",
+      "Copy the converted result with the Copy button."
+    ],
+    "faq": [
+      { "q": "What does Title Case do with small words like 'and' or 'the'?", "a": "This tool capitalizes the first letter of every word for simplicity. For strict editorial title case rules (which lowercase minor words), you may want to fine-tune the result manually." },
+      { "q": "Can I convert code variable names?", "a": "Yes — camelCase mode is handy for turning a phrase into a valid camelCase variable name." }
+    ],
+    "relatedSlugs": ["word-counter", "lorem-ipsum"]
+  },
+  {
+    "slug": "lorem-ipsum",
+    "name": "Lorem Ipsum Generator",
+    "shortName": "Lorem Ipsum",
+    "category": "Text Tools",
+    "categorySlug": "text",
+    "widget": "lorem-ipsum",
+    "metaTitle": "Lorem Ipsum Generator — Placeholder Text Free | Toolhive",
+    "metaDescription": "Generate classic Lorem Ipsum placeholder text by paragraphs, sentences, or words. Free tool for mockups, design comps, and layout testing.",
+    "intro": "Generate placeholder Lorem Ipsum text for mockups and layout testing. Choose how many paragraphs, sentences, or words you need.",
+    "howTo": [
+      "Choose whether you want paragraphs, sentences, or words.",
+      "Set the quantity with the number field.",
+      "Click Generate, then copy the placeholder text into your design or document."
+    ],
+    "faq": [
+      { "q": "What is Lorem Ipsum?", "a": "Lorem Ipsum is scrambled, pseudo-Latin placeholder text that has been used in publishing and design since the 1500s because its letter distribution looks like normal reading text without being distracting." },
+      { "q": "Can I start with the classic 'Lorem ipsum dolor sit amet' opening?", "a": "Yes, the generator always starts the first paragraph with the traditional opening line." }
+    ],
+    "relatedSlugs": ["word-counter", "case-converter"]
+  },
+  {
+    "slug": "percentage-calculator",
+    "name": "Percentage Calculator",
+    "shortName": "Percentage Calc",
+    "category": "Calculators",
+    "categorySlug": "calculators",
+    "widget": "percentage-calculator",
+    "metaTitle": "Percentage Calculator — Find % of a Number Free | Toolhive",
+    "metaDescription": "Free percentage calculator. Find what percent one number is of another, calculate a percentage of a value, or work out percentage increase and decrease.",
+    "intro": "Use the tabs below to calculate a percentage of a number, find what percent X is of Y, or work out a percentage increase or decrease.",
+    "howTo": [
+      "Pick the calculation you need from the three tabs.",
+      "Enter your numbers into the fields.",
+      "Read the result instantly below — no submit button needed."
+    ],
+    "faq": [
+      { "q": "How do I calculate a percentage increase?", "a": "Use the 'Increase / Decrease' tab, enter the starting value and the new value, and the tool shows the percentage change automatically, including whether it's an increase or decrease." },
+      { "q": "How is 'X is what % of Y' calculated?", "a": "The tool divides X by Y and multiplies by 100, e.g. 25 is what percent of 200 = (25 / 200) × 100 = 12.5%." }
+    ],
+    "relatedSlugs": ["tip-calculator", "bmi-calculator"]
+  },
+  {
+    "slug": "bmi-calculator",
+    "name": "BMI Calculator",
+    "shortName": "BMI Calculator",
+    "category": "Calculators",
+    "categorySlug": "calculators",
+    "widget": "bmi-calculator",
+    "metaTitle": "BMI Calculator — Body Mass Index Free Tool | Toolhive",
+    "metaDescription": "Free BMI calculator. Enter your height and weight in metric or imperial units to calculate your Body Mass Index and see which category it falls into.",
+    "intro": "Enter your height and weight to calculate your Body Mass Index (BMI) and see which standard category it falls into.",
+    "howTo": [
+      "Choose metric (cm/kg) or imperial (ft-in/lb) units.",
+      "Enter your height and weight.",
+      "Your BMI and its category (underweight, normal, overweight, obese) appear instantly."
+    ],
+    "faq": [
+      { "q": "Is BMI accurate for everyone?", "a": "BMI is a simple screening measure based on height and weight only. It doesn't account for muscle mass, bone density, age, or sex, so athletes and some other groups may see results that don't reflect their actual body composition." },
+      { "q": "Is this medical advice?", "a": "No. This tool is for general informational purposes only. Talk to a healthcare professional for advice about your health." }
+    ],
+    "relatedSlugs": ["percentage-calculator", "age-calculator"]
+  },
+  {
+    "slug": "tip-calculator",
+    "name": "Tip Calculator",
+    "shortName": "Tip Calculator",
+    "category": "Calculators",
+    "categorySlug": "calculators",
+    "widget": "tip-calculator",
+    "metaTitle": "Tip Calculator — Split the Bill Free | Toolhive",
+    "metaDescription": "Free tip calculator. Enter your bill total, choose a tip percentage, and split the total between any number of people instantly.",
+    "intro": "Enter the bill amount, pick a tip percentage, and split the total across any number of people.",
+    "howTo": [
+      "Enter the bill total.",
+      "Choose or type a tip percentage.",
+      "Set the number of people to split between and see each person's share."
+    ],
+    "faq": [
+      { "q": "What's a typical tip percentage?", "a": "In the US, 15–20% is common for restaurant service; norms vary a lot by country, so adjust the slider to whatever fits your situation." },
+      { "q": "Does this calculate tax separately?", "a": "This tool tips on the total you enter. If you want to tip only on the pre-tax amount, enter the pre-tax subtotal instead of the total." }
+    ],
+    "relatedSlugs": ["percentage-calculator", "bmi-calculator"]
+  },
+  {
+    "slug": "age-calculator",
+    "name": "Age Calculator",
+    "shortName": "Age Calculator",
+    "category": "Calculators",
+    "categorySlug": "calculators",
+    "widget": "age-calculator",
+    "metaTitle": "Age Calculator — Exact Age in Years, Months, Days | Toolhive",
+    "metaDescription": "Free age calculator. Enter a birth date to find your exact age in years, months, and days, plus your next birthday countdown.",
+    "intro": "Enter a birth date to calculate exact age in years, months, and days, and see a countdown to the next birthday.",
+    "howTo": [
+      "Pick a birth date using the date field.",
+      "Optionally pick a different 'as of' date (defaults to today).",
+      "See the exact age breakdown and days until the next birthday."
+    ],
+    "faq": [
+      { "q": "Does it account for leap years?", "a": "Yes, the calculation uses real calendar dates so leap years are handled automatically." },
+      { "q": "Can I calculate age as of a future or past date?", "a": "Yes — change the 'as of' date to any date to see the age at that point in time." }
+    ],
+    "relatedSlugs": ["bmi-calculator", "percentage-calculator"]
+  },
+  {
+    "slug": "json-formatter",
+    "name": "JSON Formatter & Validator",
+    "shortName": "JSON Formatter",
+    "category": "Developer Tools",
+    "categorySlug": "developer",
+    "widget": "json-formatter",
+    "metaTitle": "JSON Formatter & Validator — Free Online Tool | Toolhive",
+    "metaDescription": "Free online JSON formatter and validator. Paste JSON to beautify, minify, and validate it instantly with clear error messages.",
+    "intro": "Paste JSON below to beautify (pretty-print), minify, or validate it. Syntax errors are shown with a clear message.",
+    "howTo": [
+      "Paste your raw JSON into the input box.",
+      "Click Format to pretty-print it, or Minify to compress it to one line.",
+      "If the JSON is invalid, an error message explains what to fix."
+    ],
+    "faq": [
+      { "q": "Is my JSON sent to a server?", "a": "No — formatting and validation run entirely in your browser using JavaScript's built-in JSON parser." },
+      { "q": "What indentation does Format use?", "a": "Formatted output uses 2-space indentation, the common default for readable JSON." }
+    ],
+    "relatedSlugs": ["timestamp-converter", "uuid-generator"]
+  },
+  {
+    "slug": "timestamp-converter",
+    "name": "Unix Timestamp Converter",
+    "shortName": "Timestamp Converter",
+    "category": "Developer Tools",
+    "categorySlug": "developer",
+    "widget": "timestamp-converter",
+    "metaTitle": "Unix Timestamp Converter — Epoch to Date Free | Toolhive",
+    "metaDescription": "Convert Unix timestamps to human-readable dates and back. Free online epoch converter with current timestamp and timezone support.",
+    "intro": "Convert between Unix epoch timestamps and human-readable dates in either direction. The current timestamp updates live.",
+    "howTo": [
+      "Enter a Unix timestamp to convert it to a readable date, or",
+      "Pick a date and time to convert it to a Unix timestamp.",
+      "Toggle between seconds and milliseconds depending on what your system uses."
+    ],
+    "faq": [
+      { "q": "What is a Unix timestamp?", "a": "A Unix timestamp is the number of seconds (or milliseconds) that have elapsed since January 1, 1970, 00:00:00 UTC, widely used by programming languages and databases to represent a point in time." },
+      { "q": "Does this show my local timezone or UTC?", "a": "Both are shown side by side so you can see the same instant expressed in UTC and in your browser's local timezone." }
+    ],
+    "relatedSlugs": ["json-formatter", "uuid-generator"]
+  },
+  {
+    "slug": "password-generator",
+    "name": "Password Generator",
+    "shortName": "Password Generator",
+    "category": "Developer Tools",
+    "categorySlug": "developer",
+    "widget": "password-generator",
+    "metaTitle": "Password Generator — Strong Random Passwords Free | Toolhive",
+    "metaDescription": "Generate strong, random passwords with customizable length and character sets. Free and generated entirely in your browser, never sent online.",
+    "intro": "Generate a strong random password. Choose the length and which character types to include, then copy it straight to your clipboard.",
+    "howTo": [
+      "Set your desired password length with the slider.",
+      "Choose which character sets to include: uppercase, lowercase, numbers, symbols.",
+      "Click Generate and use the Copy button to copy the password."
+    ],
+    "faq": [
+      { "q": "Are generated passwords stored anywhere?", "a": "No. Passwords are generated locally in your browser using the Web Crypto API and are never transmitted or saved." },
+      { "q": "How long should my password be?", "a": "Most security guidance recommends at least 12–16 characters with a mix of character types for important accounts." }
+    ],
+    "relatedSlugs": ["uuid-generator", "json-formatter"]
+  },
+  {
+    "slug": "uuid-generator",
+    "name": "UUID Generator",
+    "shortName": "UUID Generator",
+    "category": "Developer Tools",
+    "categorySlug": "developer",
+    "widget": "uuid-generator",
+    "metaTitle": "UUID Generator — Free Online v4 UUID Tool | Toolhive",
+    "metaDescription": "Generate random version 4 UUIDs (GUIDs) instantly. Generate one or many at once, free and entirely in your browser.",
+    "intro": "Generate random version 4 UUIDs (also called GUIDs) instantly. Generate one at a time or a batch at once.",
+    "howTo": [
+      "Choose how many UUIDs you want to generate.",
+      "Click Generate.",
+      "Copy a single UUID or all of them at once."
+    ],
+    "faq": [
+      { "q": "What is a UUID?", "a": "A UUID (Universally Unique Identifier) is a 128-bit identifier that is, for practical purposes, guaranteed to be unique across systems without needing a central authority to issue it." },
+      { "q": "Which UUID version does this generate?", "a": "This tool generates version 4 UUIDs, which are based on random numbers and are the most common type used in application development." }
+    ],
+    "relatedSlugs": ["password-generator", "json-formatter"]
+  },
+  {
+    "slug": "color-converter",
+    "name": "HEX ↔ RGB Color Converter",
+    "shortName": "Color Converter",
+    "category": "Visual Tools",
+    "categorySlug": "visual",
+    "widget": "color-converter",
+    "metaTitle": "HEX to RGB Color Converter — Free Online Tool | Toolhive",
+    "metaDescription": "Convert colors between HEX, RGB, and HSL instantly with a live color preview. Free online color converter for designers and developers.",
+    "intro": "Convert a color between HEX, RGB, and HSL formats with a live preview swatch. Enter a value in any format to convert the others.",
+    "howTo": [
+      "Type a HEX code, RGB value, or HSL value into any field.",
+      "The other formats and the preview swatch update automatically.",
+      "Use the color picker to choose a color visually instead."
+    ],
+    "faq": [
+      { "q": "What's the difference between HEX and RGB?", "a": "HEX and RGB describe the exact same color space — HEX (like #3366FF) is a shorthand hexadecimal encoding of the same red, green, and blue values that RGB expresses as three decimal numbers (like rgb(51, 102, 255))." },
+      { "q": "What is HSL used for?", "a": "HSL (Hue, Saturation, Lightness) describes color in a way that's often more intuitive for adjusting a color's brightness or intensity while keeping its base hue." }
+    ],
+    "relatedSlugs": ["qr-code-generator", "json-formatter"]
+  },
+  {
+    "slug": "qr-code-generator",
+    "name": "QR Code Generator",
+    "shortName": "QR Generator",
+    "category": "Visual Tools",
+    "categorySlug": "visual",
+    "widget": "qr-code-generator",
+    "metaTitle": "QR Code Generator — Free, No Signup | Toolhive",
+    "metaDescription": "Generate a QR code from any text or URL instantly and download it as a PNG. Free QR code generator, no signup, no watermark.",
+    "intro": "Type or paste any text or URL below to generate a scannable QR code you can download as a PNG.",
+    "howTo": [
+      "Type or paste the text, URL, or data you want encoded.",
+      "The QR code preview updates as you type.",
+      "Click Download PNG to save the QR code image."
+    ],
+    "faq": [
+      { "q": "Do QR codes generated here expire?", "a": "No. The QR code encodes your exact text or URL directly (a 'static' QR code), so it works for as long as the destination itself exists — there's no separate service to expire." },
+      { "q": "Can I put a Wi-Fi password or contact card in a QR code?", "a": "Yes — as long as you format the text using the standard Wi-Fi or vCard syntax, any scanner app that supports those formats will recognize it." }
+    ],
+    "relatedSlugs": ["color-converter", "password-generator"]
+  }
+]
